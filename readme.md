@@ -4,6 +4,10 @@ Marketing Email Campaign Performance dashboard designed to provide an in-depth a
 
 ![alt text](https://github.com/pawelkulakowski/powerbi_portfolio_project_nine/blob/master/promo.jpg?raw=true)
 
+
+https://github.com/user-attachments/assets/63dda072-fe50-4175-89a0-476b34ffbeb4
+
+
 ### Key Insights
 
 - Top 3 campaigns based on click rate: Discount for active influencers, Drip2 - Trial end reminder, Drip3 - Licensing and pricing plan options
